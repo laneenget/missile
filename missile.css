@@ -1,0 +1,15 @@
+#real-alert{
+    background-color:#F1948A;
+    font-weight: bold;
+    display: inline;
+}
+
+#test-only{
+    background-color: #82E0AA;
+    font-weight: bold;
+    display: inline;
+}
+
+h1{
+    text-align: center;
+}
